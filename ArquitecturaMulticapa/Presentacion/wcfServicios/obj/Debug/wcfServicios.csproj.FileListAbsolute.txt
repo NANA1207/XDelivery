@@ -1,0 +1,15 @@
+E:\APP_Distribuidas\DISTRIBUIDAS\Presentacion\wcfServicios\bin\wcfServicios.dll.config
+E:\APP_Distribuidas\DISTRIBUIDAS\Presentacion\wcfServicios\bin\wcfServicios.dll
+E:\APP_Distribuidas\DISTRIBUIDAS\Presentacion\wcfServicios\bin\wcfServicios.pdb
+E:\APP_Distribuidas\DISTRIBUIDAS\Presentacion\wcfServicios\bin\Entidades.dll
+E:\APP_Distribuidas\DISTRIBUIDAS\Presentacion\wcfServicios\bin\LogicaNegocios.dll
+E:\APP_Distribuidas\DISTRIBUIDAS\Presentacion\wcfServicios\bin\Datos.dll
+E:\APP_Distribuidas\DISTRIBUIDAS\Presentacion\wcfServicios\bin\Entidades.pdb
+E:\APP_Distribuidas\DISTRIBUIDAS\Presentacion\wcfServicios\bin\LogicaNegocios.pdb
+E:\APP_Distribuidas\DISTRIBUIDAS\Presentacion\wcfServicios\bin\Datos.pdb
+E:\APP_Distribuidas\DISTRIBUIDAS\Presentacion\wcfServicios\bin\Datos.dll.config
+E:\APP_Distribuidas\DISTRIBUIDAS\Presentacion\wcfServicios\obj\Debug\wcfServicios.csproj.AssemblyReference.cache
+E:\APP_Distribuidas\DISTRIBUIDAS\Presentacion\wcfServicios\obj\Debug\wcfServicios.csproj.CoreCompileInputs.cache
+E:\APP_Distribuidas\DISTRIBUIDAS\Presentacion\wcfServicios\obj\Debug\wcfServicios.csproj.CopyComplete
+E:\APP_Distribuidas\DISTRIBUIDAS\Presentacion\wcfServicios\obj\Debug\wcfServicios.dll
+E:\APP_Distribuidas\DISTRIBUIDAS\Presentacion\wcfServicios\obj\Debug\wcfServicios.pdb

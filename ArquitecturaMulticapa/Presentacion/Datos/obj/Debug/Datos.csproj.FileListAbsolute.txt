@@ -1,0 +1,10 @@
+E:\APP_Distribuidas\DISTRIBUIDAS\Presentacion\Datos\bin\Debug\Datos.dll.config
+E:\APP_Distribuidas\DISTRIBUIDAS\Presentacion\Datos\bin\Debug\Datos.dll
+E:\APP_Distribuidas\DISTRIBUIDAS\Presentacion\Datos\bin\Debug\Datos.pdb
+E:\APP_Distribuidas\DISTRIBUIDAS\Presentacion\Datos\bin\Debug\Entidades.dll
+E:\APP_Distribuidas\DISTRIBUIDAS\Presentacion\Datos\bin\Debug\Entidades.pdb
+E:\APP_Distribuidas\DISTRIBUIDAS\Presentacion\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+E:\APP_Distribuidas\DISTRIBUIDAS\Presentacion\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+E:\APP_Distribuidas\DISTRIBUIDAS\Presentacion\Datos\obj\Debug\Datos.csproj.CopyComplete
+E:\APP_Distribuidas\DISTRIBUIDAS\Presentacion\Datos\obj\Debug\Datos.dll
+E:\APP_Distribuidas\DISTRIBUIDAS\Presentacion\Datos\obj\Debug\Datos.pdb

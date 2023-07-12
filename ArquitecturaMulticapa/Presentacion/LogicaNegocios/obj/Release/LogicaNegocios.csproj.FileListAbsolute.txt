@@ -1,0 +1,12 @@
+E:\APP_Distribuidas\DISTRIBUIDAS\Presentacion\LogicaNegocios\bin\Release\LogicaNegocios.dll
+E:\APP_Distribuidas\DISTRIBUIDAS\Presentacion\LogicaNegocios\bin\Release\LogicaNegocios.pdb
+E:\APP_Distribuidas\DISTRIBUIDAS\Presentacion\LogicaNegocios\bin\Release\Datos.dll
+E:\APP_Distribuidas\DISTRIBUIDAS\Presentacion\LogicaNegocios\bin\Release\Entidades.dll
+E:\APP_Distribuidas\DISTRIBUIDAS\Presentacion\LogicaNegocios\bin\Release\Datos.pdb
+E:\APP_Distribuidas\DISTRIBUIDAS\Presentacion\LogicaNegocios\bin\Release\Datos.dll.config
+E:\APP_Distribuidas\DISTRIBUIDAS\Presentacion\LogicaNegocios\bin\Release\Entidades.pdb
+E:\APP_Distribuidas\DISTRIBUIDAS\Presentacion\LogicaNegocios\obj\Release\LogicaNegocios.csproj.AssemblyReference.cache
+E:\APP_Distribuidas\DISTRIBUIDAS\Presentacion\LogicaNegocios\obj\Release\LogicaNegocios.csproj.CoreCompileInputs.cache
+E:\APP_Distribuidas\DISTRIBUIDAS\Presentacion\LogicaNegocios\obj\Release\LogicaNegocios.csproj.CopyComplete
+E:\APP_Distribuidas\DISTRIBUIDAS\Presentacion\LogicaNegocios\obj\Release\LogicaNegocios.dll
+E:\APP_Distribuidas\DISTRIBUIDAS\Presentacion\LogicaNegocios\obj\Release\LogicaNegocios.pdb

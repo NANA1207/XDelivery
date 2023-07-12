@@ -1,0 +1,6 @@
+E:\APP_Distribuidas\DISTRIBUIDAS\Presentacion\Entidades\bin\Release\Entidades.dll
+E:\APP_Distribuidas\DISTRIBUIDAS\Presentacion\Entidades\bin\Release\Entidades.pdb
+E:\APP_Distribuidas\DISTRIBUIDAS\Presentacion\Entidades\obj\Release\Entidades.csproj.AssemblyReference.cache
+E:\APP_Distribuidas\DISTRIBUIDAS\Presentacion\Entidades\obj\Release\Entidades.csproj.CoreCompileInputs.cache
+E:\APP_Distribuidas\DISTRIBUIDAS\Presentacion\Entidades\obj\Release\Entidades.dll
+E:\APP_Distribuidas\DISTRIBUIDAS\Presentacion\Entidades\obj\Release\Entidades.pdb

@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\DELL\Documents\proyectoFinal</_PublishTargetUrl>
+    <History>True|2022-02-04T05:28:28.2306044Z;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Datos.dll">
+      <publishTime>02/04/2022 00:28:26</publishTime>
+    </File>
+    <File Include="bin/Datos.dll.config">
+      <publishTime>01/29/2022 23:46:27</publishTime>
+    </File>
+    <File Include="bin/Datos.pdb">
+      <publishTime>02/04/2022 00:28:26</publishTime>
+    </File>
+    <File Include="bin/Entidades.dll">
+      <publishTime>01/30/2022 00:45:11</publishTime>
+    </File>
+    <File Include="bin/Entidades.pdb">
+      <publishTime>01/30/2022 00:45:11</publishTime>
+    </File>
+    <File Include="bin/LogicaNegocios.dll">
+      <publishTime>02/04/2022 00:28:27</publishTime>
+    </File>
+    <File Include="bin/LogicaNegocios.pdb">
+      <publishTime>02/04/2022 00:28:27</publishTime>
+    </File>
+    <File Include="bin/wcfServicios.dll">
+      <publishTime>02/04/2022 00:28:27</publishTime>
+    </File>
+    <File Include="bin/wcfServicios.pdb">
+      <publishTime>02/04/2022 00:28:27</publishTime>
+    </File>
+    <File Include="Pedidos.svc">
+      <publishTime>01/30/2022 00:03:47</publishTime>
+    </File>
+    <File Include="Productos.svc">
+      <publishTime>01/30/2022 00:04:55</publishTime>
+    </File>
+    <File Include="Usuarios.svc">
+      <publishTime>01/30/2022 00:05:49</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>02/04/2022 00:28:27</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
